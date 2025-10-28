@@ -40,6 +40,7 @@ If you have any question about the paper or the code, feel free to raise an issu
 </details>
 
 ## News
+- **2025/10/24:**: SaProt, ColabSaprot and SaprotHub are now published in Nature Biotechnology, see [here](https://www.nature.com/articles/s41587-025-02859-7).
 - **2025/01/01:** SaProt has been extensively validated by multiple wet lab experiments see our work [SaprotHub](https://www.biorxiv.org/content/10.1101/2024.05.24.595648v5)
 - **2024/12/09:** We released Saprot 1.3B version! Download it from [HuggingFace 1.3B-AF2](https://huggingface.co/westlake-repl/SaProt_1.3B_AF2) and [HuggingFace 1.3B-AF2+OMG+NCBI](https://huggingface.co/westlake-repl/SaProt_1.3B_AFDB_OMG_NCBI). Saprot 1.3B  is better than the original SaProt 650M  in the aa-sequence-only tasks.
 - **2024/05/13:** We developed SaprotHub to make protein language model training accessible to all biologists. [Go](https://github.com/westlake-repl/SaprotHub).
