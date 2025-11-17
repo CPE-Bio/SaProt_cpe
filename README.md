@@ -13,7 +13,7 @@ We are pleased to announce that  [ColabSaprot v2](https://colab.research.google.
 
 If you have any question about the paper or the code, feel free to raise an issue  or directly email us!
 
-> We have 2 PhD positions for international students at Westlake University, China! see [here](https://x.com/duguyuan/status/1897101692665258245).  
+> We offer two PHD positions to international student applicants each year, China! see [here](https://x.com/duguyuan/status/1897101692665258245) or contact Prof. Fajie Yuan directly.  
 
 
 <details open><summary><b>Table of contents</b></summary>
