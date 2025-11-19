@@ -11,6 +11,8 @@ The repository is an official implementation of [SaProt: Protein Language Modeli
 
 We are pleased to announce that  [ColabSaprot v2](https://colab.research.google.com/github/westlake-repl/SaprotHub/blob/main/colab/SaprotHub_v2.ipynb?hl=en)  and [SaprotHub](https://huggingface.co/SaProtHub) are now ready for use. [Go](https://github.com/westlake-repl/SaprotHub).
 
+Successful [wet-lab results](https://drive.google.com/file/d/1ZcDl0XYksTcUEaCfPI0tuEVo5CA031dg/view) by ColabSaprot from community.
+
 If you have any question about the paper or the code, feel free to raise an issue  or directly email us!
 
 > We offer two PHD positions to international student applicants each year, China! see [here](https://x.com/duguyuan/status/1897101692665258245) or contact Prof. Fajie Yuan directly.  
